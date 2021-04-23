@@ -1,4 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, GOLPERU
-https://teleriumtv.net/ingest01/68691.m3u8?sf=cWE4QUg3TmRPNw==&token=5t8XMNCCHBTqFB4cR3JDsw&expires=1619220902&rnd=68691
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista xtv36", ESPN
+http://45.71.202.210:50000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista xtv36", ESPN 2
+http://45.71.202.210:50000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista xtv36", ESPN 2 CO
+http://45.71.202.210:50000/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista xtv36", ESPN 3
+http://45.71.202.210:50000/play/a032/index.m3u8
